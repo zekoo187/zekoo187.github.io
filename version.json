@@ -1,0 +1,6 @@
+{
+  "app": "Symmetry Performance",
+  "deploy": "github + netlify auto-deploy",
+  "marker": "auto-deploy-test-1",
+  "date": "2026-06-23"
+}
